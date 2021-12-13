@@ -1,3 +1,5 @@
+> Project discontinued in favor of [intercom-react-native](https://www.npmjs.com/package/@intercom/intercom-react-native)
+
 # react-native-intercom
 React Native wrapper for Intercom.io. Based off of [intercom-cordova](https://github.com/intercom/intercom-cordova)
 
